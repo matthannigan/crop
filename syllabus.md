@@ -87,11 +87,11 @@ At the Instructor’s discretion, a student’s final overall score may be round
 
 ### About Matt Hannigan
 
-Matt Hannigan is a co-founder of The Sprout Fund and currently serves as its Deputy Director & Vice President. The Sprout Fund is Pittsburgh’s leading agency supporting innovative ideas, catalyzing community change, and making our region a better place to live, work, play, and raise a family. Matt helped start Sprout in 2001 while receiving his MSPPM degree from Heinz College. Since then, Matt has been involved in the creation and implementation of all of Sprout’s major programs, which have provided catalytic support for more than 1,000 community-based projects through nearly $7 million of investments.
+Matt Hannigan is a co-founder of The Sprout Fund and currently serves as its Deputy Director & Vice President. The Sprout Fund is Pittsburgh’s leading agency supporting innovative ideas, catalyzing community change, and making our region a better place to live, work, play, and raise a family. Matt helped start Sprout in 2001 while receiving his MSPPM degree from Heinz College. Since then, Matt has been involved in the creation and implementation of all of Sprout’s major programs, which have provided catalytic support for hundreds of community-based projects through millions of dollars of investments.
 
 Matt provides oversight for Sprout’s principal program areas, actively participates in fundraising, program development, and planning, and maintains primary responsibility for overseeing the finances and business operations of the organization. Through his work at Sprout, Matt has developed a keen interest in decisionmaking processes and fostering civic innovation through grantmaking.
 
-From 2005 to 2011, Matt was an adjunct teaching assistant for the program evaluation course (90-823) at Heinz College. Creating Result-Oriented Programs was created to provide the key concepts of program evaluation and other insights from a decade of work in Pittsburgh’s nonprofit community in a half-semester setting.
+From 2005 to 2011, Matt was an adjunct teaching assistant for the program evaluation course (90-823) at Heinz College. Creating Result-Oriented Programs was created to provide the key concepts of program evaluation and other insights from a decade of work in Pittsburgh’s nonprofit community in a half-semester setting. It has been offered continuously, twice each year, since the 2011–12 academic year.
 
 ## Course Schedule
 
@@ -147,8 +147,8 @@ Designing experiments to gauge program impact and test hypotheses requires an un
 
 This session’s assigned readings are:
 
-*   William R. Shadish, Thomas D. Cook, Donald T. Campbell, “Experiments and Generalized Causal Inference” in<span> </span>_Experimental and Quasi-Experimental Designs for Generalized Causal Inference_<span> </span>(Boston, MA: Houghton Mifflin Company, 2002), pp. 1-32\. [32 pages]
-*   William R. Shadish, Thomas D. Cook, Donald T. Campbell, “Randomized Experiments: Rationale, Designs, and Conditions Conducive to Doing Them” in<span> </span>_Experimental and Quasi-Experimental Designs for Generalized Causal Inference_<span> </span>(Boston, MA: Houghton Mifflin Company, 2002), pp. 246-278\. [33 pages]
+*   William R. Shadish, Thomas D. Cook, Donald T. Campbell, “Experiments and Generalized Causal Inference” in _Experimental and Quasi-Experimental Designs for Generalized Causal Inference_ (Boston, MA: Houghton Mifflin Company, 2002), pp. 1-32\. [32 pages]
+*   William R. Shadish, Thomas D. Cook, Donald T. Campbell, “Randomized Experiments: Rationale, Designs, and Conditions Conducive to Doing Them” in _Experimental and Quasi-Experimental Designs for Generalized Causal Inference_ (Boston, MA: Houghton Mifflin Company, 2002), pp. 246-278\. [33 pages]
 
 Students will digitally submit Assignment 2 Measures of Success prior to the start of class. During the second half of the class session, students will work together in small groups on Exercise 3 (Experimental Design).
 
@@ -159,7 +159,7 @@ After a program is complete, new techniques in documentation and reporting, such
 
 These sessions’ assigned readings are:
 
-*   Marc Bolan, Kimberly Francis, and Jane Reisman, “Data Management Planning and Preparation” in _How to Manage and Analyze Data for Outcome-Based Evaluation_<span> </span>(Seattle, WA: The Evaluation Forum, 2000), pp. 7-32\. [26 pages]
+*   Marc Bolan, Kimberly Francis, and Jane Reisman, “Data Management Planning and Preparation” in _How to Manage and Analyze Data for Outcome-Based Evaluation_ (Seattle, WA: The Evaluation Forum, 2000), pp. 7-32\. [26 pages]
 *   Art Feinglass, “Setting Goals, Clarifying the Message, and Creating the PR Plan” in _The Public Relations Handbook for Nonprofits_ (San Francisco: Jossey-Bass, 2005), pp. 21–45\. [25 pages]
 *   Harold S. Williams, Arthur Y. Webb, and William J. Phillips, Part III, Chapters 12–15 “Targets and Accomplishments” in _Outcome Funding: A New Approach to Targeted Grantmaking_, 4th edition (Rensselaerville, NY: Rensselaerville Institute, 1996), pp. 113–178\. [65 pages]
 
