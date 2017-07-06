@@ -177,7 +177,7 @@ During class, students will provide oral summaries of their Final Project Delive
 *   Plan each class session with care so that it is worthwhile to attend;
 *   Encourage all students to participate in class discussions;
 *   Start and end class session on time;
-*   Make lecture outlines available on Blackboard no later than 1 hour before the beginning of a class session;
+*   Make lecture outlines available no later than 1 hour before the beginning of a class session;
 *   Answer student questions directly or make reference to resources where answers may be found (and be forthright about lack of knowledge for those questions that the Instructor cannot answer);
 *   Reply to emails or other messages within 24 hours on weekdays and within 48 hours on weekends;
 *   Assign readings that adequately cover the materials and meet the learning objectives of the course while adhering to the time expectations for a 6-unit graduate-level course; and,
