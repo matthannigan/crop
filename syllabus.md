@@ -19,6 +19,10 @@ The learning objectives of this course are to enable students to:
 
 ## Course Framework
 
+### Prerequisites
+
+None
+
 ### Meeting Format
 
 This graduate course will progress over a period of 6 or 7 sessions and will feature a mixture of lecture content, discussion of assigned reading materials, group exercises, and student presentations.
