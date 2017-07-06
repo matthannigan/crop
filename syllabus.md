@@ -1,6 +1,8 @@
 Creating Results-Oriented Programs (CROP)
 ===
-`Syllabus for Course 94-824 at [The H. John Heinz III College of Information Systems and Public Policy](www.heinz.cmu.edu) at [Carnegie Mellon University](www.cmu.edu) taught by instructor [Matt Hannigan](https://www.linkedin.com/in/matthannigan/)`
+```
+Syllabus for Course 94-824 at [The H. John Heinz III College of Information Systems and Public Policy](www.heinz.cmu.edu) at [Carnegie Mellon University](www.cmu.edu) taught by instructor [Matt Hannigan](https://www.linkedin.com/in/matthannigan/)
+```
 
 ## Course Overview
 
