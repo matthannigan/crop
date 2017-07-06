@@ -85,8 +85,6 @@ At the Instructor’s discretion, a student’s final overall score may be round
 
 ## Instructor Information
 
-### About Matt Hannigan
-
 Matt Hannigan is a co-founder of The Sprout Fund and currently serves as its Deputy Director & Vice President. The Sprout Fund is Pittsburgh’s leading agency supporting innovative ideas, catalyzing community change, and making our region a better place to live, work, play, and raise a family. Matt helped start Sprout in 2001 while receiving his MSPPM degree from Heinz College. Since then, Matt has been involved in the creation and implementation of all of Sprout’s major programs, which have provided catalytic support for hundreds of community-based projects through millions of dollars of investments.
 
 Matt provides oversight for Sprout’s principal program areas, actively participates in fundraising, program development, and planning, and maintains primary responsibility for overseeing the finances and business operations of the organization. Through his work at Sprout, Matt has developed a keen interest in decisionmaking processes and fostering civic innovation through grantmaking.
