@@ -16,12 +16,12 @@ The learning objectives of this course are to enable students to:
 4.	Provide tangible and specific information about program results to internal and external stakeholders; and,
 5.	Bring an analytic and pragmatic approach to each stage in the lifecycle of a typical program at a small nonprofit or arts organization.
 
-
-## Course Framework
-
 ### Prerequisites
 
 None
+
+
+## Course Framework
 
 ### Meeting Format
 
