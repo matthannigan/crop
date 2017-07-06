@@ -61,9 +61,17 @@ The Instructor will evaluate each student’s progress toward achieving the cour
 
 Aggregate performance will determine the overall final grade assigned at the conclusion of the course using the following grading scale:
 
-| A+ | 98.0% and up | B+ | 88.0–89.9%  | C+ | 78.0–79.9%
-| A  | 94.0–97.9%   | B  | 84.0–87.9%  | C  | 74.0–77.9%
-| A- | 90.0–93.9%   | B- | 80.0–83.9%  | C- | 70.0–73.9%
+| Grade | Score
+| ---| ---
+| A+ | 98.0% and up 
+| A  | 94.0–97.9%   
+| A- | 90.0–93.9%     
+| B+ | 88.0–89.9%
+| B  | 84.0–87.9%
+| B- | 80.0–83.9%
+| C+ | 78.0–79.9%
+| C  | 74.0–77.9%
+| C- | 70.0–73.9%
 
 The grade of A+ is reserved for truly exceptional performance. The median grade in the course is typically a B+ or A-.
 
@@ -84,18 +92,20 @@ From 2005 to 2011, Matt was an adjunct teaching assistant for the program evalua
 
 ### Summary Course Calendar
 
-| Week 1 | Introductions / Course Overview / Program Entrepreneurs
-| Week 2 | Developing Program Theory & Logic Models
-|        | _In-Class Group Exercise 1_
-| Week 3 | Establishing Measures of Success
-|        | _Take-Home Individual Assignment 1 due_
-|        | _In-Class Group Exercise 2_
-| Week 4 | Designing Experiments & Understanding Threats to Validity
-|        | _Take-Home Individual Assignment 2 due_
-|        | _In-Class Group Exercise 3_
-| Week 5 of 6 | Gathering Data, Communicating Program Results & Securing Resources to Lead Change
-| Week 5 of 7 | Gathering Data & Communicating Program Results
-| Week 6 of 7 | Guest Speaker(s) & Securing Resources to Lead Change
+| Week   | Topic & Requirements
+| ---    | ---
+| 1 | Introductions / Course Overview / Program Entrepreneurs
+| 2 | Developing Program Theory & Logic Models
+|   | _In-Class Group Exercise 1_
+| 3 | Establishing Measures of Success
+|   | _Take-Home Individual Assignment 1 due_
+|   | _In-Class Group Exercise 2_
+| 4 | Designing Experiments & Understanding Threats to Validity
+|   | _Take-Home Individual Assignment 2 due_
+|   | _In-Class Group Exercise 3_
+| 5 of 6 | Gathering Data, Communicating Program Results & Securing Resources to Lead Change
+| 5 of 7 | Gathering Data & Communicating Program Results
+| 6 of 7 | Guest Speaker(s) & Securing Resources to Lead Change
 | Last Week | _Final Project Electronic Deliverable due & Presentations_
 
 ## Week 1
