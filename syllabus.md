@@ -111,7 +111,7 @@ From 2005 to 2011, Matt was an adjunct teaching assistant for the program evalua
 | 6 of 7 | Guest Speaker(s) & Securing Resources to Lead Change
 | Last Week | _Final Project Electronic Deliverable due & Presentations_
 
-## Week 1: Introductions / Course Overview / Program Entrepreneurs
+### Week 1: Introductions / Course Overview / Program Entrepreneurs
 As an introduction to the course, the first session details the course framework, requirements, expectations, and learning objectives. Students, viewed as future program entrepreneurs at small nonprofit and arts organizations, are introduced to the program design, strategy, and evaluation as adaptable techniques in the service, delivery, and reporting of charitable activities in today’s nonprofit environment.
 
 This session's optional readings are:
@@ -119,7 +119,7 @@ This session's optional readings are:
 *   J. Gregory Dees, “Mastering the Art of Innovation” in _Enterprising Nonprofits: A Toolkit for Social Entrepreneurs_, edited by J. Gregory Dees, Jed Emerson, & Peter Economy (New York: John Wiley & Sons, 2001), pp. 161–197\. [37 pages]
 *   Mike Hudson, “Managing Performance” in _Managing at the Leading Edge: New Challenges in Non-profit Management_, 1st edition (San Francisco, CA: Jossey-Bass, 2005), pp. 41–80\. [40 pages]
 
-## Week 2: Developing Program Theory & Logic Models
+### Week 2: Developing Program Theory & Logic Models
 The second class session introduces theory of change and its attendant tool, the program logic model, as essential component of a program entrepreneur’s toolkit for testing and developing new approaches to community challenges. With a clear articulation of program theory, preparing for implementation and planning for evaluation are made easier.
 
 This sessions assigned readings are:
@@ -129,7 +129,7 @@ This sessions assigned readings are:
 
 During the first half of class, the Instructor will introduce the Final Project. During the second half of the class session, students will work together in small groups on Exercise #1 (Logic Model). At the end of class, the Instructor will discuss Take-home Assignment 1 (Problem/Opportunity Definition), which students will complete individually for the next class.
 
-## Week 3: Establishing Measures of Success
+### Week 3: Establishing Measures of Success
 Measures of success and the importance of having defensible metrics in the current funding climate is the principal topic of the third class session. Distinguishing between outputs, which are used to monitor a program’s process and implementation, and outcomes, which are used to indicate a program’s effect and impact, establishes realistic expectations for program participants and supporters.
 
 This sessions assigned readings are:
@@ -140,7 +140,7 @@ This sessions assigned readings are:
 
 Students will digitally submit Assignment 1 (Problem/Opportunity Definition) prior to the start of class. During the second half of the class session, students will work together in small groups on Exercise 2 (Outputs vs. Outcomes). At the end of class, the Instructor will discuss Assignment 2 (Measures of Success), which students will complete individually for the next class.
 
-## Week 4: Designing Experiments & Understanding Threats to Validity
+### Week 4: Designing Experiments & Understanding Threats to Validity
 Designing experiments to gauge program impact and test hypotheses requires an understanding of the core threats to validity, randomization techniques, and the strengths and weaknesses of various design approaches. After selecting an experimental design strategy, surveys, interview questions, and existing datasets are effective, low-threshold mechanisms for program managers and evaluators to gather relevant data on program implementation and outcomes.
 
 This session’s assigned readings are:
@@ -150,7 +150,7 @@ This session’s assigned readings are:
 
 Students will digitally submit Assignment 2 Measures of Success prior to the start of class. During the second half of the class session, students will work together in small groups on Exercise 3 (Experimental Design).
 
-## Week 5 of 6 / Weeks 5 of 7 & 6 of 7: Gathering Data, Communicating Results & Securing Resources to Lead Change
+### Week 5 of 6 / Weeks 5 of 7 & 6 of 7: Gathering Data, Communicating Results & Securing Resources to Lead Change
 After selecting an experimental design strategy, surveys, interview questions, and existing datasets are effective, low-threshold mechanisms for program managers and evaluators to gather relevant data on program implementation and outcomes. To provide timely information to decisionmakers, program managers use data visualization tools such as dashboards, diagrams, and infographics to distill details into actionable steps to continue, change, or modify a program.
 
 After a program is complete, new techniques in documentation and reporting, such as multimedia storytelling, are among the most resonant ways to demonstrate impact to supporters and the public. Topics and ideas previously discussed in the course will be revisited within the specific context of securing organizational support to advance innovative ideas, seeking resources to design and implement new projects and activities, and managing relationships with major funders and early backers.
@@ -163,8 +163,10 @@ These sessions’ assigned readings are:
 
 At the beginning of week 5, the Instructor will review key concepts from Sessions 2–4 of the course and students may work together in teams on an additional group exercise. During 7-sessions editions of the course, during the first half of the class session in Week 6, guest(s) from Pittsburgh’s nonprofit and arts community will discuss their successes in creating results-oriented programs.
 
-## Last Week
-During class, students will provide oral summaries of their Final Project Deliverable for the Instructor and their classmates. Students must submit the slides for their Final Project Presentations digitally by 5pm ET on the day of class.
+### Last Week: Final Project Due
+Students must submit their Final Project Deliverable no later than 2 days prior to the final regularly-scheduled class session. The document(s) must be submitted as Microsoft Word or Adobe PDF files.
+
+During the final class session, students will provide oral summaries of their Final Project Deliverable for the Instructor and their classmates. Students must submit the slides for their Final Project Presentations digitally by 5pm ET on the day of class.
 
 ## Course Policies & Procedures
 
