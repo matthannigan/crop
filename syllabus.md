@@ -21,7 +21,7 @@ The learning objectives of this course are to enable students to:
 
 ### Meeting Format
 
-This graduate course will progress over a period of 6 sessions and will feature a mixture of lecture content, discussion of assigned reading materials, group exercises, and student presentations.
+This graduate course will progress over a period of 6 or 7 sessions and will feature a mixture of lecture content, discussion of assigned reading materials, group exercises, and student presentations.
 
 Each class session will be divided into 80-minute segments with a 10-minute break in between. Slides to accompany each lecture will be made available prior to the beginning of each class.
 
@@ -29,7 +29,7 @@ Each class session will be divided into 80-minute segments with a 10-minute brea
 
 There are no required textbooks for this course. For each class session, students will be required to read a selection of chapters, articles, reports, or other materials as PDF files to download or web links to visit.
 
-Assigned readings for each session average 90 pages of material (low: 76 pages, high: 104 pages) and will require, on average, 2.5 hours of preparation prior to class.
+Assigned readings during 6-session editions of the course average 85 pages of material per session (low: 60 pages, high: 116 pages) and will require, on average, 2.5 hours of preparation prior to class. Assigned readings during 7-session editions of the course average 68 pages of material per session (low: 60 pages, high: 102 pages) and will require, on average, 2 hours of preparation prior to class.
 
 ### Requirements
 
@@ -61,9 +61,9 @@ The Instructor will evaluate each student’s progress toward achieving the cour
 
 Aggregate performance will determine the overall final grade assigned at the conclusion of the course using the following grading scale:
 
-|A+ | 98.0% and up | B+ | 88.0–89.9%  | C+ | 78.0–79.9%
-|A  | 94.0–97.9%   | B  | 84.0–87.9%  | C  | 74.0–77.9%
-|A- | 90.0–93.9%   | B- | 80.0–83.9%  | C- | 70.0–73.9%
+| A+ | 98.0% and up | B+ | 88.0–89.9%  | C+ | 78.0–79.9%
+| A  | 94.0–97.9%   | B  | 84.0–87.9%  | C  | 74.0–77.9%
+| A- | 90.0–93.9%   | B- | 80.0–83.9%  | C- | 70.0–73.9%
 
 The grade of A+ is reserved for truly exceptional performance. The median grade in the course is typically a B+ or A-.
 
@@ -80,6 +80,78 @@ Matt provides oversight for Sprout’s principal program areas, actively partici
 
 From 2005 to 2011, Matt was an adjunct teaching assistant for the program evaluation course (90-823) at Heinz College. Creating Result-Oriented Programs was created to provide the key concepts of program evaluation and other insights from a decade of work in Pittsburgh’s nonprofit community in a half-semester setting.
 
+## Course Schedule
+
+### Summary Course Calendar
+
+| Week 1 | Introductions / Course Overview / Program Entrepreneurs
+| Week 2 | Developing Program Theory & Logic Models
+|        | _In-Class Group Exercise 1_
+| Week 3 | Establishing Measures of Success
+|        | _Take-Home Individual Assignment 1 due_
+|        | _In-Class Group Exercise 2_
+| Week 4 | Designing Experiments & Understanding Threats to Validity
+|        | _Take-Home Individual Assignment 2 due_
+|        | _In-Class Group Exercise 3_
+| Week 5 of 6 | Gathering Data, Communicating Program Results & Securing Resources to Lead Change
+| Week 5 of 7 | Gathering Data & Communicating Program Results
+| Week 6 of 7 | Guest Speaker(s) & Securing Resources to Lead Change
+| Last Week | _Final Project Electronic Deliverable due & Presentations_
+
+## Week 1
+As an introduction to the course, the first session details the course framework, requirements, expectations, and learning objectives. Students, viewed as future program entrepreneurs at small nonprofit and arts organizations, are introduced to the program design, strategy, and evaluation as adaptable techniques in the service, delivery, and reporting of charitable activities in today’s nonprofit environment.
+
+This session's optional readings are:
+
+*   [<span>J. Gregory <span>Dees</span>, “Mastering the Art of Innovation” in</span> _Enterprising Nonprofits: A Toolkit for Social Entrepreneurs_](https://cmu.instructure.com/courses/373/files/53148/preview)<span>, edited by J. Gregory <span>Dees</span>, Jed Emerson, & Peter Economy (New York: John Wiley & Sons, 2001), pp. 161–197\. [37 pages]</span>
+*   [Mike Hudson, “Managing Performance” in _Managing at the Leading Edge: New Challenges in Non-profit Management_](https://cmu.instructure.com/courses/373/files/53147/preview)<span>, 1st edition (San Francisco, CA: <span>Jossey</span>-Bass, 2005), pp. 41–80\. [40 pages]</span>
+
+## Week 2
+The second class session introduces theory of change and its attendant tool, the program logic model, as essential component of a program entrepreneur’s toolkit for testing and developing new approaches to community challenges. With a clear articulation of program theory, preparing for implementation and planning for evaluation are made easier.
+
+This sessions assigned readings are:
+
+*   Carol H. Weiss, “Understanding the Program” in _Evaluation: Methods for Studying Programs and Policies_, 2nd edition (Upper Saddle River, NJ: Prentice Hall, 1996), pp. 46–71\. [26 pages]
+*   W.K. Kellogg Foundation, Chapters 1–3 in _Logic Model Development Guide_ (Battle Creek, MI: W.K. Kellogg Foundation, 2004), pp. 1–34\. [34 pages]
+
+During the first half of class, the Instructor will introduce the Final Project. During the second half of the class session, students will work together in small groups on Exercise #1 (Logic Model). At the end of class, the Instructor will discuss Take-home Assignment 1 (Problem/Opportunity Definition), which students will complete individually for the next class.
+
+## Week 3
+Measures of success and the importance of having defensible metrics in the current funding climate is the principal topic of the third class session. Distinguishing between outputs, which are used to monitor a program’s process and implementation, and outcomes, which are used to indicate a program’s effect and impact, establishes realistic expectations for program participants and supporters.
+
+This sessions assigned readings are:
+
+*   Carol H. Weiss, “Developing Measures” in _Evaluation: Methods for Studying Programs and Policies_, 2nd edition (Upper Saddle River, NJ: Prentice Hall, 1996), pp. 114–151\. [38 pages]
+*   Peter H. Rossi, Mark W. Lipsey, and Howard E. Freeman, “Assessing and Monitoring Program Process” in _Evaluation_, 7th edition (Thousand Oaks, CA: SAGE Publications, 2004), pp. 169–202\. [34 pages]
+*   Peter H. Rossi, Mark W. Lipsey, and Howard E. Freeman, “Measuring and Monitoring Program Outcomes” in _Evaluation_, 7th edition (Thousand Oaks, CA: SAGE Publications, 2004), pp. 203–232\. [30 pages]
+
+Students will digitally submit Assignment 1 (Problem/Opportunity Definition) prior to the start of class. During the second half of the class session, students will work together in small groups on Exercise 2 (Outputs vs. Outcomes). At the end of class, the Instructor will discuss Assignment 2 (Measures of Success), which students will complete individually for the next class.
+
+## Week 4
+Designing experiments to gauge program impact and test hypotheses requires an understanding of the core threats to validity, randomization techniques, and the strengths and weaknesses of various design approaches. After selecting an experimental design strategy, surveys, interview questions, and existing datasets are effective, low-threshold mechanisms for program managers and evaluators to gather relevant data on program implementation and outcomes.
+
+This session’s assigned readings are:
+
+*   William R. Shadish, Thomas D. Cook, Donald T. Campbell, “Experiments and Generalized Causal Inference” in<span> </span>_Experimental and Quasi-Experimental Designs for Generalized Causal Inference_<span> </span>(Boston, MA: Houghton Mifflin Company, 2002), pp. 1-32\. [32 pages]
+*   William R. Shadish, Thomas D. Cook, Donald T. Campbell, “Randomized Experiments: Rationale, Designs, and Conditions Conducive to Doing Them” in<span> </span>_Experimental and Quasi-Experimental Designs for Generalized Causal Inference_<span> </span>(Boston, MA: Houghton Mifflin Company, 2002), pp. 246-278\. [33 pages]
+
+Students will digitally submit Assignment 2 Measures of Success prior to the start of class. During the second half of the class session, students will work together in small groups on Exercise 3 (Experimental Design).
+
+## Week 5 of 6 / Weeks 5 of 7 & 6 of 7
+After selecting an experimental design strategy, surveys, interview questions, and existing datasets are effective, low-threshold mechanisms for program managers and evaluators to gather relevant data on program implementation and outcomes. To provide timely information to decisionmakers, program managers use data visualization tools such as dashboards, diagrams, and infographics to distill details into actionable steps to continue, change, or modify a program.
+
+After a program is complete, new techniques in documentation and reporting, such as multimedia storytelling, are among the most resonant ways to demonstrate impact to supporters and the public. Topics and ideas previously discussed in the course will be revisited within the specific context of securing organizational support to advance innovative ideas, seeking resources to design and implement new projects and activities, and managing relationships with major funders and early backers.
+
+These sessions’ assigned readings are:
+
+*   Marc Bolan, Kimberly Francis, and Jane Reisman, “Data Management Planning and Preparation” in _How to Manage and Analyze Data for Outcome-Based Evaluation_<span> </span>(Seattle, WA: The Evaluation Forum, 2000), pp. 7-32\. [26 pages]
+*   Art Feinglass, “Setting Goals, Clarifying the Message, and Creating the PR Plan” in _The Public Relations Handbook for Nonprofits_ (San Francisco: Jossey-Bass, 2005), pp. 21–45\. [25 pages]
+*   Harold S. Williams, Arthur Y. Webb, and William J. Phillips, Part III, Chapters 12–15 “Targets and Accomplishments” in _Outcome Funding: A New Approach to Targeted Grantmaking_, 4th edition (Rensselaerville, NY: Rensselaerville Institute, 1996), pp. 113–178\. [65 pages]
+
+At the beginning of week 5, the Instructor will review key concepts from Sessions 2–4 of the course and students may work together in teams on an additional group exercise. During 7-sessions editions of the course, during the first half of the class session in Week 6, guest(s) from Pittsburgh’s nonprofit and arts community will discuss their successes in creating results-oriented programs.
+
+## Last Week
+During class, students will provide oral summaries of their Final Project Deliverable for the Instructor and their classmates. Students must submit the slides for their Final Project Presentations digitally by 5pm ET on the day of class.
 
 ## Course Policies & Procedures
 
