@@ -1,5 +1,6 @@
 Creating Results-Oriented Programs (CROP)
 ===
+`Syllabus for Course 94-824 at [The H. John Heinz III College of Information Systems and Public Policy](www.heinz.cmu.edu) at [Carnegie Mellon University](www.cmu.edu) taught by instructor [Matt Hannigan](https://www.linkedin.com/in/matthannigan/)`
 
 ## Course Overview
 
@@ -117,8 +118,8 @@ As an introduction to the course, the first session details the course framework
 
 This session's optional readings are:
 
-*   [<span>J. Gregory <span>Dees</span>, “Mastering the Art of Innovation” in</span> _Enterprising Nonprofits: A Toolkit for Social Entrepreneurs_](https://cmu.instructure.com/courses/373/files/53148/preview)<span>, edited by J. Gregory <span>Dees</span>, Jed Emerson, & Peter Economy (New York: John Wiley & Sons, 2001), pp. 161–197\. [37 pages]</span>
-*   [Mike Hudson, “Managing Performance” in _Managing at the Leading Edge: New Challenges in Non-profit Management_](https://cmu.instructure.com/courses/373/files/53147/preview)<span>, 1st edition (San Francisco, CA: <span>Jossey</span>-Bass, 2005), pp. 41–80\. [40 pages]</span>
+*   J. Gregory Dees, “Mastering the Art of Innovation” in _Enterprising Nonprofits: A Toolkit for Social Entrepreneurs_, edited by J. Gregory Dees, Jed Emerson, & Peter Economy (New York: John Wiley & Sons, 2001), pp. 161–197\. [37 pages]
+*   Mike Hudson, “Managing Performance” in _Managing at the Leading Edge: New Challenges in Non-profit Management_, 1st edition (San Francisco, CA: Jossey-Bass, 2005), pp. 41–80\. [40 pages]
 
 ## Week 2: Developing Program Theory & Logic Models
 The second class session introduces theory of change and its attendant tool, the program logic model, as essential component of a program entrepreneur’s toolkit for testing and developing new approaches to community challenges. With a clear articulation of program theory, preparing for implementation and planning for evaluation are made easier.
