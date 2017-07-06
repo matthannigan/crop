@@ -1,14 +1,14 @@
 Creating Results-Oriented Programs (CROP)
 ===
 
-# Course Overview
+## Course Overview
 
-## Course Description
+### Course Description
 Successful programs require more than just great ideas. From a program’s initial planning and design through its execution and evaluation, program managers must deftly deploy disparate skills and work closely with colleagues, board members, funders, and constituents to measure, understand, and discuss programmatic results.
 
 In Creating Results-Oriented Programs, graduate students are introduced to tools and techniques to assist them in managing highly effective programs at small nonprofit and arts organizations. Students explore the connections between program theory, project budgets, requests for support, and reports on outcomes. Students develop skills needed to build measures for success into program activities and use quantitative and qualitative assessments to make strategic decisions before, during, and after implementation. 
 
-## Learning Objectives
+### Learning Objectives
 The learning objectives of this course are to enable students to:
 1. Articulate programmatic goals through a compelling theory of change;
 2.	Apply the basic techniques of process and outcome evaluations;
@@ -17,31 +17,31 @@ The learning objectives of this course are to enable students to:
 5.	Bring an analytic and pragmatic approach to each stage in the lifecycle of a typical program at a small nonprofit or arts organization.
 
 
-# Course Framework
+## Course Framework
 
-## Meeting Format
+### Meeting Format
 
 This graduate course will progress over a period of 6 sessions and will feature a mixture of lecture content, discussion of assigned reading materials, group exercises, and student presentations.
 
 Each class session will be divided into 80-minute segments with a 10-minute break in between. Slides to accompany each lecture will be made available prior to the beginning of each class.
 
-## Readings
+### Readings
 
 There are no required textbooks for this course. For each class session, students will be required to read a selection of chapters, articles, reports, or other materials as PDF files to download or web links to visit.
 
 Assigned readings for each session average 90 pages of material (low: 76 pages, high: 104 pages) and will require, on average, 2.5 hours of preparation prior to class.
 
-## Requirements
+### Requirements
 
-### In-class Group Exercises
+#### In-class Group Exercises
 
 Student will complete 3 in-class group exercises during the course. Students will be randomly assigned to groups and asked to work together through a set of questions or activities related to that class session’s assigned readings or lecture content. Each student group will report out the key points of discussion to the entire class. Each group will also submit worksheets that record responses to questions and summarize the group’s dialogue with the names of each participating student. The group exercises will be graded as pass/fail. Students with unexcused absences for a given class session will automatically receive a failing grade on that group exercise.
 
-### Take-home Individual Assignments
+#### Take-home Individual Assignments
 
 Students will complete 2 take-home assignments during the course. Students must complete each assignment on their own. The assignments are structured so as to contribute toward the development of the student’s final class project (_see below_). The take-home assignments will be graded as pass/fail. Students failing to turn in an assignment by its due date without gaining prior permission from the Instructor will automatically receive a failing grade on the assignment.
 
-### Final Project
+#### Final Project
 
 Students will complete a summative final project as a key aspect of the course. Through the project, students will demonstrate their proficient use and understanding of concepts, ideas, and techniques developed during the course.
 
@@ -53,7 +53,7 @@ It includes 2 separately-evaluated outputs:
 
 Additional details regarding the final class project will be discussed during Week 2 of the course. The final project will be graded using numeric scores.
 
-## Assessment & Evaluation
+### Assessment & Evaluation
 
 The Instructor will evaluate each student’s progress toward achieving the course’s learning objectives through completion of the course requirements, according to the following weights:
 *   33.3% In-Class Group Exercises & Take-home Individual Assignments
@@ -70,9 +70,9 @@ The grade of A+ is reserved for truly exceptional performance. The median grade
 At the Instructor’s discretion, a student’s final overall score may be rounded up 0.5% because of a student’s high level of engagement in the course as indicated by frequent in-class participation and demonstrated comprehension of assigned reading materials. For example, an engaged student with a final course score of 93.5% (A-) may have their grade rounded up to an A.
 
 
-# Instructor Information
+## Instructor Information
 
-## About Matt Hannigan
+### About Matt Hannigan
 
 Matt Hannigan is a co-founder of The Sprout Fund and currently serves as its Deputy Director & Vice President. The Sprout Fund is Pittsburgh’s leading agency supporting innovative ideas, catalyzing community change, and making our region a better place to live, work, play, and raise a family. Matt helped start Sprout in 2001 while receiving his MSPPM degree from Heinz College. Since then, Matt has been involved in the creation and implementation of all of Sprout’s major programs, which have provided catalytic support for more than 1,000 community-based projects through nearly $7 million of investments.
 
@@ -81,11 +81,11 @@ Matt provides oversight for Sprout’s principal program areas, actively partici
 From 2005 to 2011, Matt was an adjunct teaching assistant for the program evaluation course (90-823) at Heinz College. Creating Result-Oriented Programs was created to provide the key concepts of program evaluation and other insights from a decade of work in Pittsburgh’s nonprofit community in a half-semester setting.
 
 
-# Course Policies & Procedures
+## Course Policies & Procedures
 
-## Expectations
+### Expectations
 
-### Students should expect that the Instructor will
+#### Students should expect that the Instructor will
 
 *   Plan each class session with care so that it is worthwhile to attend;
 *   Encourage all students to participate in class discussions;
@@ -96,7 +96,7 @@ From 2005 to 2011, Matt was an adjunct teaching assistant for the program evalua
 *   Assign readings that adequately cover the materials and meet the learning objectives of the course while adhering to the time expectations for a 6-unit graduate-level course; and,
 *   Fairly assess individual and group work products against standards common to the professional fields of nonprofit and arts management.
 
-### The Instructor expects that Students will
+#### The Instructor expects that Students will
 
 *   Arrive on-time for class and remain for the entire session;
 *   Be attentive and engaged while in class;
@@ -107,15 +107,15 @@ From 2005 to 2011, Matt was an adjunct teaching assistant for the program evalua
 *   Provide honest responses to Heinz College course evaluation questions and thoughtful feedback on the course materials and the Instructor through the course evaluation process; and,
 *   Maintain or exceed Carnegie Mellon University’s high standards for academic integrity (_see next_).
 
-## Academic Integrity
+### Academic Integrity
 
 The Instructor views plagiarism and other forms of academic misrepresentation are viewed as extremely serious matters. Misrepresentation of another’s work as one’s own is widely recognized as among the most serious violations. The violation is clearly flagrant when it occurs as plagiarism on a course requirement, including take-home assignments and the final project. The punishment for such offenses may result in a failing grade in the course and disciplinary action by Heinz College.This course abides by the Ethics and Discipline policies and procedures as outlined in section 7 of the Heinz College’s College Handbook as well as [Carnegie Mellon University’s Policy on Academic Integrity](https://www.cmu.edu/academic-integrity/).
 
-### Plagiarism
+#### Plagiarism
 
 Plagiarism is the failure to indicate the source of work—either with quotation marks or footnotes. The source can be a phrase, a graphic element, a proof, specific language, or an idea derived from the work of another person. (Note that material on the web is another person’s work and is therefore equally subject to the rules on plagiarism and cheating as any other source material.)
 
-### Cheating
+#### Cheating
 
 Cheating includes, but is not limited to:
 
@@ -129,9 +129,9 @@ Cheating includes, but is not limited to:
 *   Unauthorized collaboration on a course requirement (collaboration must be explicitly permitted by the Instructor to be considered authorized); and
 *   Submission of the same work for credit in more than one course.
 
-## Other Policies
+### Other Policies
 
-### Late Work
+#### Late Work
 
 Unless otherwise specified by the advanced express consent of the Instructor:
 
@@ -140,33 +140,33 @@ Unless otherwise specified by the advanced express consent of the Instructor:
 *   The Final Project Deliverable will be accepted 24 hours after it was due, with a 2% penalty assessed against the student’s final course score.
 *   The Final Project Presentation must be made during the final regularly-scheduled class session unless other arrangements are made.
 
-### Extra Credit
+#### Extra Credit
 
 No extra credit will be given to individual students. Students should plan to do well on all course requirements throughout the mini.
 
-### Incomplete Coursework
+#### Incomplete Coursework
 
 If, for any reason, a student is unable to complete Final Project by the deadlines specified herein, the student may request that an incomplete grade be assigned. The Instructor reserves the right to issue an incomplete grade in an instance where a student’s submitted Final Project so evidently fails to meet course expectations that, if scored, it would result in the student receiving a failing grade in the course.
 
 In either circumstance, the student and the Instructor, in consultation with the student’s Program Director, will establish a contract detailing the work to be performed and the timeframe in which the work must occur to achieve a passing grade.
 
-### Licensing
+#### Licensing
 
 Unless otherwise noted, all classroom materials created by the Instructor, Matt Hannigan, are provided for student use with a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Learn more at [creativecommons.org](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-### Recording of Classroom Activities
+#### Recording of Classroom Activities
 
 Students may make audio of classroom activities for their personal use only. No copies may be distributed without the express consent of the Instructor. The Instructor may record audio for future instructional use. No video recordings are permitted.
 
-### Electronic Devices
+#### Electronic Devices
 
 Please disable and/or mute the noise-making function of all cell phones and computers before the start of class. Please use laptop computers and other electronic devices for course-appropriate purposes, for example taking notes and referencing reading materials. When this is not the case, please sit in the back row so that other students are not distracted by non-class screen content.
 
-### Preferred Name & Gender Pronoun
+#### Preferred Name & Gender Pronoun
 
 If a student prefers to be called a different name than what is on the class roster or has a preferred gender pronoun, please let the instructor know at the start of the course. If the instructor incorrectly pronounces a student name or uses an incorrect preferred gender pronoun, please do not hesitate to correct him during class.
 
-### Personal Health & Safety
+#### Personal Health & Safety
 
 Take care of yourself. Do your best to maintain a healthy lifestyle this mini by eating well, exercising, avoiding drugs and alcohol, getting enough sleep and taking some time to relax. This will help you achieve your goals and cope with stress.
 
@@ -178,14 +178,14 @@ If you or someone you know is feeling suicidal or in danger of self-harm, call C
 
 If the situation is life threatening, call campus police (412-268-2323) or 911.
 
-### Americans with Disabilities Act
+#### Americans with Disabilities Act
 
 In compliance with the Americans with Disabilities Act (ADA), all qualified students enrolled in this course are entitled to “reasonable accommodations.” If a student has a documented disability, please contact the [Office of Disability Resources](http://www.cmu.edu/hr/eos/disability/resources.html) to request an appropriate academic accommodation. Students must inform the Instructor of any special needs prior to the start of the second class session.
 
-### Grievances
+#### Grievances
 
 Students are encouraged to discuss concerns regarding the course or the Instructor with their Program Director or the Heinz College Associate Dean. Students who wish to file a formal grievance should submit their concerns in writing to the Heinz College Dean.
 
-### Course Changes
+#### Course Changes
 
 The Instructor may change or alter the course syllabus, requirements, grading, readings, or any other matter whenever appropriate, provided that students receive at least one week’s notice of the change going into effect.
