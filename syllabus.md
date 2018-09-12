@@ -85,9 +85,9 @@ At the Instructor’s discretion, a student’s final overall score may be round
 
 ## Instructor Information
 
-Matt Hannigan is a co-founder of The Sprout Fund and currently serves as its Deputy Director & Vice President. The Sprout Fund is Pittsburgh’s leading agency supporting innovative ideas, catalyzing community change, and making our region a better place to live, work, play, and raise a family. Matt helped start Sprout in 2001 while receiving his MSPPM degree from Heinz College. Since then, Matt has been involved in the creation and implementation of all of Sprout’s major programs, which have provided catalytic support for hundreds of community-based projects through millions of dollars of investments.
+Matt Hannigan was a co-founder of The Sprout Fund and served as its Deputy Director & Vice President until its sunset in 2018. The Sprout Fund was Pittsburgh’s leading agency supporting innovative ideas, catalyzing community change, and making our region a better place to live, work, play, and raise a family. Matt helped start Sprout in 2001 while receiving his MSPPM degree from Heinz College. Matt was involved in the creation and implementation of all of Sprout’s major programs, which provided catalytic support for more than 1,500 community-based people, projects, and ideas through nearly $8 million of investments.
 
-Matt provides oversight for Sprout’s principal program areas, actively participates in fundraising, program development, and planning, and maintains primary responsibility for overseeing the finances and business operations of the organization. Through his work at Sprout, Matt has developed a keen interest in decisionmaking processes and fostering civic innovation through grantmaking.
+Matt provided oversight for Sprout’s principal program areas, actively participated in fundraising, program development, and planning, and maintained primary responsibility for overseeing the finances and business operations of the organization. Through his work at Sprout, Matt developed a keen interest in decisionmaking processes and fostering civic innovation through grantmaking.
 
 From 2005 to 2011, Matt was an adjunct teaching assistant for the program evaluation course (90-823) at Heinz College. Creating Result-Oriented Programs was created to provide the key concepts of program evaluation and other insights from a decade of work in Pittsburgh’s nonprofit community in a half-semester setting. It has been offered continuously, twice each year, since the 2011–12 academic year.
 
@@ -163,7 +163,7 @@ These sessions’ assigned readings are:
 
 At the beginning of week 5, the Instructor will review key concepts from Sessions 2–4 of the course and students may work together in teams on an additional group exercise. During 7-sessions editions of the course, during the first half of the class session in Week 6, guest(s) from Pittsburgh’s nonprofit and arts community will discuss their successes in creating results-oriented programs.
 
-### Last Week: Final Project Due
+### Last Week: Final Project Deadlines
 Students must submit their Final Project Deliverable no later than 2 days prior to the final regularly-scheduled class session. The document(s) must be submitted as Microsoft Word or Adobe PDF files.
 
 During the final class session, students will provide oral summaries of their Final Project Deliverable for the Instructor and their classmates. Students must submit the slides for their Final Project Presentations digitally by 5pm ET on the day of class.
