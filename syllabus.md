@@ -106,9 +106,10 @@ From 2005 to 2011, Matt was an adjunct teaching assistant for the program evalua
 | 4 | Designing Experiments & Understanding Threats to Validity
 |   | _Take-Home Individual Assignment 2 due_
 |   | _In-Class Group Exercise 3_
-| 5 of 6 | Gathering Data, Communicating Program Results & Securing Resources to Lead Change
-| 5 of 7 | Gathering Data & Communicating Program Results
-| 6 of 7 | Guest Speaker(s) & Securing Resources to Lead Change
+| 5 | Gathering Data, Communicating Program Results & Securing Resources to Lead Change (6-session courses)
+|   | Gathering Data & Communicating Program Results (7-session courses)
+|   | _Take-Home Individual Assignment 3 due_
+| 6 | Guest Speaker(s) & Securing Resources to Lead Change (7-session courses only)
 | Last Week | _Final Project Electronic Deliverable due & Presentations_
 
 ### Week 1: Introductions / Course Overview / Program Entrepreneurs
@@ -161,10 +162,10 @@ These sessions’ assigned readings are:
 *   Art Feinglass, “Setting Goals, Clarifying the Message, and Creating the PR Plan” in _The Public Relations Handbook for Nonprofits_ (San Francisco: Jossey-Bass, 2005), pp. 21–45\. [25 pages]
 *   Harold S. Williams, Arthur Y. Webb, and William J. Phillips, Part III, Chapters 12–15 “Targets and Accomplishments” in _Outcome Funding: A New Approach to Targeted Grantmaking_, 4th edition (Rensselaerville, NY: Rensselaerville Institute, 1996), pp. 113–178\. [65 pages]
 
-At the beginning of week 5, the Instructor will review key concepts from Sessions 2–4 of the course and students may work together in teams on an additional group exercise. During 7-sessions editions of the course, during the first half of the class session in Week 6, guest(s) from Pittsburgh’s nonprofit and arts community will discuss their successes in creating results-oriented programs.
+Students will digitally submit Assignment 3 Evaluation Approach prior to the start of class. At the beginning of week 5, the Instructor will review key concepts from Sessions 2–4 of the course and students may work together in teams on an additional group exercise. During 7-sessions editions of the course, during the first half of the class session in Week 6, guest(s) from Pittsburgh’s nonprofit and arts community will discuss their successes in creating results-oriented programs.
 
 ### Last Week: Final Project Deadlines
-Students must submit their Final Project Deliverable no later than 2 days prior to the final regularly-scheduled class session. The document(s) must be submitted as Microsoft Word or Adobe PDF files.
+Students must submit their Final Project Deliverable by the deadline listed on the course Canvas webpage. The document(s) must be submitted as Microsoft Word or Adobe PDF files.
 
 During the final class session, students will provide oral summaries of their Final Project Deliverable for the Instructor and their classmates. Students must submit the slides for their Final Project Presentations digitally by 5pm ET on the day of class.
 
